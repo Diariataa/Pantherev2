@@ -531,7 +531,6 @@ p{
     font-weight: 700;
 }
 .social {
-    max-width: 400px;
     margin: auto auto auto auto;
 }
 h2{
@@ -588,13 +587,13 @@ h4 {
     background-color: #364577;
 }
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #000;
 }
 .tc-white {
     color: white!important
 }
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #000;
     color: #FFFFFF!important;
 }
 .btn-atomic-tangerine:hover {
@@ -839,5 +838,9 @@ h4 {
     font-size: 20px;
 }
 .col-sm-6 p{
-    font-size: 0px;
+    font-size: 20px;
+}
+.text-center .social a{
+    width: 0px;
+
 }
