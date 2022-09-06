@@ -5066,7 +5066,6 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .navbar {
     position: relative;
     min-height: 50px;
-    margin-bottom: 20px;
     border: 1px solid transparent
 }
 
@@ -5190,7 +5189,6 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .navbar-brand {
     float: left;
     height: 50px;
-    padding: 15px 15px;
     font-size: 18px;
     line-height: 20px
 }

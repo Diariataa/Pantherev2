@@ -44,7 +44,7 @@ a:hover {
     padding: 50px;
 }
 .bloc-sm{
-    padding: 20px 50px;
+    padding: 20px 0px;
 }
 .bg-center, .bg-l-edge, .bg-r-edge, .bg-t-edge, .bg-b-edge,
 .bg-tl-edge, .bg-bl-edge, .bg-tr-edge, .bg-br-edge, .bg-repeat{
@@ -664,7 +664,7 @@ h4 {
 
 @media (max-width: 991px) {
     .container {
-        width: 100%;
+        width: 90%;
     }
     .b-parallax {
         background-attachment: scroll;
@@ -843,4 +843,12 @@ h4 {
 .text-center .social a{
     width: 0px;
 
+}
+
+.site-navigation a{
+    font-size: 20px;
+}
+
+.l-bloc{
+    width: 100%;
 }
